@@ -1,0 +1,23 @@
+.btn
+{
+    color: #fff;
+    font-size: 1.6rem;
+    padding: 0.5rem 2.2rem ;
+    border-radius: 5rem;
+    font-weight: 600;
+
+    &-purpol
+    {
+        background: linear-gradient( to right,rgba(12, 72, 202, 0.616) , rgba(149, 2, 194, 0.678));
+    }
+
+    &-black
+    {
+        background:#000 ;
+    }
+
+    &-blue
+    {
+        background: linear-gradient(to right, rgba(2, 139, 231, 0.685), rgba(7, 3, 241, 0.616));
+    }
+}
